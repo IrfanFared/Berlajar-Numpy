@@ -1,0 +1,3 @@
+ distribution adalah kemungkinanan nilai yang akan muncul di suatu data
+
+ 
