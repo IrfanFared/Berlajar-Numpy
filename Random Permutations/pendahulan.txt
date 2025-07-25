@@ -1,0 +1,4 @@
+jadi di di dalam mudule random tedapan sebuah method yang bisa di gunakan unuk mengacak elemen sebuah array 
+terdiri dari dua method
+- shufeling(mengubaha array asli)
+-permutasi(tidak mengubah array asli alia copy)
