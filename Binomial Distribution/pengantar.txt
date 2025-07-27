@@ -1,0 +1,2 @@
+bilonimial distribusi adalah model probabilitas untuk mengecek berapa kejadian muncul atau sukses dalam serangakaian percobaan indepeden
+

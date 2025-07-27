@@ -1,0 +1,4 @@
+jadi normal distribusi itu kaya nilai yang paling banayka muncul  di tandai dengan puncak 
+bentuk  noramal distribusi kalo di visualisasikan akan tampak seperti lonceng dimana nilai yang sering muncul berada di puncak dan semakin ke keri atau ke kanan maka nilai tersbut akan jarang keluar
+titik pusatnya adalah mean
+deviasi adalah sebarapa melenceng suatu nilai dari nilai rata rata
