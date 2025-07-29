@@ -1,0 +1,1 @@
+uniform distribusi adalah suatu jenis distribusi probabilitas dimana setiap kemungkinanan hasil dalam rentang tertentu mempunayai peluang yang sama besar unntuk terjadi
