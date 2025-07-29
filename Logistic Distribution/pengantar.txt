@@ -1,0 +1,11 @@
+logistik distribusi digunakan untu mengambil keputusan dengan ambang batas yang di tetentukan.
+dimana jika nilai tidak melewati ambang batas makan hasi false atau gagal
+ya miri dengan normal distribusi hanya saja memliki probabilitas 0 atau satu 
+semakin menjauh dari titik puncak maka nilai probabilitas berkurang
+
+
+memliki 3 parameter
+
+loc yang berarti rata-rata secara devault 0
+sclae yang berarti deviasi seberapa data atau tinggi sebuah  gravik
+size untuk mengemabilakan nilai array dalam bentuk yang kita inggikan
